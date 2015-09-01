@@ -19,8 +19,7 @@ struct book
     char date_of_publication[1000];
 };
 
-struct member
-{
+struct member{
     int id;
     char last_name[100];
     char first_name[100];
